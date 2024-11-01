@@ -1,18 +1,24 @@
 <p align="center">
-  <img width="200" src="https://open-wc.org/hero.png"></img>
+    <a href="https://github.com/luixaviles/web-image-editor">
+        <img src="https://img.shields.io/github/stars/luixaviles/web-image-editor.svg?style=social&label=Star" alt="GitHub stars">
+    </a>
+    <a href="https://clicktotweet.com/0pVg2">
+        <img src="https://img.shields.io/twitter/url/https/github.com/luixaviles/web-image-editor.svg?style=social" alt="Tweet">
+    </a>
 </p>
 
-## Open-wc Starter App
+## Web Image Editor
+A Web Image Editor application based on Web Components using Lit and TypeScript.
 
-[![Built with open-wc recommendations](https://img.shields.io/badge/built%20with-open--wc-blue.svg)](https://github.com/open-wc)
+<img src="./assets/web-image-editor.png?raw=true">
+
 
 ## Quickstart
 
 To get started:
 
 ```sh
-npm init @open-wc
-# requires node 10 & npm 6 or higher
+npm install
 ```
 
 ## Scripts
