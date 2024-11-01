@@ -2,7 +2,7 @@
     <a href="https://github.com/luixaviles/web-image-editor">
         <img src="https://img.shields.io/github/stars/luixaviles/web-image-editor.svg?style=social&label=Star" alt="GitHub stars">
     </a>
-    <a href="https://clicktotweet.com/0pVg2">
+    <a href="https://ctt.ac/2Gv0a">
         <img src="https://img.shields.io/twitter/url/https/github.com/luixaviles/web-image-editor.svg?style=social" alt="Tweet">
     </a>
 </p>
